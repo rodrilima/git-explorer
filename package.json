@@ -1,5 +1,5 @@
 {
-  "name": "github-app",
+  "name": "github-explorer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,5 +35,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.29.0",
+    "@typescript-eslint/parser": "^2.29.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-import-resolver-typescript": "^2.0.0",
+    "eslint-plugin-react": "^7.19.0"
   }
 }
