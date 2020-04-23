@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.d1ed24c7.chunk.js",
-    "main.js.map": "/static/js/main.d1ed24c7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f51e40a7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f51e40a7.js.map",
-    "static/js/2.183aaeff.chunk.js": "/static/js/2.183aaeff.chunk.js",
-    "static/js/2.183aaeff.chunk.js.map": "/static/js/2.183aaeff.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.98f85f9a2e269683ee5e56594cfa445d.js": "/precache-manifest.98f85f9a2e269683ee5e56594cfa445d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.183aaeff.chunk.js.LICENSE.txt": "/static/js/2.183aaeff.chunk.js.LICENSE.txt",
-    "static/media/bg.svg": "/static/media/bg.0b819d63.svg",
-    "static/media/logo.svg": "/static/media/logo.04f6798f.svg"
+    "main.js": "/git-explorer/static/js/main.d1ed24c7.chunk.js",
+    "main.js.map": "/git-explorer/static/js/main.d1ed24c7.chunk.js.map",
+    "runtime-main.js": "/git-explorer/static/js/runtime-main.361ffd5a.js",
+    "runtime-main.js.map": "/git-explorer/static/js/runtime-main.361ffd5a.js.map",
+    "static/js/2.1e9f966c.chunk.js": "/git-explorer/static/js/2.1e9f966c.chunk.js",
+    "static/js/2.1e9f966c.chunk.js.map": "/git-explorer/static/js/2.1e9f966c.chunk.js.map",
+    "index.html": "/git-explorer/index.html",
+    "precache-manifest.842756dd53d0353e8c4a4e5997e0ecd9.js": "/git-explorer/precache-manifest.842756dd53d0353e8c4a4e5997e0ecd9.js",
+    "service-worker.js": "/git-explorer/service-worker.js",
+    "static/js/2.1e9f966c.chunk.js.LICENSE.txt": "/git-explorer/static/js/2.1e9f966c.chunk.js.LICENSE.txt",
+    "static/media/bg.svg": "/git-explorer/static/media/bg.0b819d63.svg",
+    "static/media/logo.svg": "/git-explorer/static/media/logo.04f6798f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f51e40a7.js",
-    "static/js/2.183aaeff.chunk.js",
+    "static/js/runtime-main.361ffd5a.js",
+    "static/js/2.1e9f966c.chunk.js",
     "static/js/main.d1ed24c7.chunk.js"
   ]
 }
